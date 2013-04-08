@@ -1,0 +1,43 @@
+6
+
+ x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x | 33  x  x 34  x  x |  x  x  x  x  x  x |  x 18  x  x  x  x 
+ x  x  x  x  x  x | 15  x  x 29  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x 36  x  x 
+ x  x  x  x  x 19 |  6  x 18  x  x  x |  x  x  x  x  x  x |  x  x  x  x 23  x |  x  x  x 11  x  x | 33  x  x  x  x  x 
+ x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x 
+ x  x 24  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  1 |  x  x  x 29  x  x |  x  x  x  x 23  x 
+ x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x 25  x |  x  x  x  x  x  x 
+---------------------------------------------------------------------------------------------------------------------
+ x  x  x 32 29  x |  x  x  x  x  x  x |  x  x 24  x  x  x |  x  x  x  3 34 22 |  x  x  x  x  x  x |  x  x 18  x  x  x 
+ x  x  x  x  x 25 |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x 24  5  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x 
+ x  x  x  x  x  x |  1  x  x 18  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x 
+22  x  x  x  x  x | 19  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x 32  x  x |  x  x 27  x  x  x |  x 30  x  x  x  x 
+ x  x  x  x  x  x |  x  x  x  x  x  x | 19  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x 29  x |  x  x  x  x  x  x 
+ x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x 32  x  x 
+---------------------------------------------------------------------------------------------------------------------
+ x  9  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x | 22  x  x  2  x  x |  x 21  x  x 17  x |  x  x  x  x  x  x 
+25  x  6  x  x  x | 35  x  x  x  x 29 |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x 36 
+ x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x | 22  x 33  x  x 34 
+ x  x  x  x  2  x |  x  x  x 10  x  x |  x  x  x  x  x  x | 35  x  x  x  x  x |  x  x  x  x  x  x |  x  x 30  x  x  x 
+ x  x  x 30  x  x | 34  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x 
+ x 23  x  x  x  x | 11  x  x  x 24  x |  x  x  x  x  x  x |  x  x 21  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x 
+---------------------------------------------------------------------------------------------------------------------
+ x  x  x  x 13  x |  x  x  x  x  x  x |  x 28  x  x 24  x | 34  x  x  x  x  x |  x  x  x  x  x 17 | 25  x  x  x  x  x 
+ x  x  x  x  x  x | 29  x  x  x  x 32 |  x  x  x 26  x  x |  x  x  4  x 24  x |  x  x  x  x  2  x |  x  x  x  x  x  x 
+ x  x  x 21  x  x |  x  x  x  x 20  x |  x  x  x  x  x  x |  x  x  x  x 27  x |  x  x  x  x  x  x |  x  x  x  x  x  x 
+ x  x  x  x  x  2 |  x  x  x  x  x  x |  x  x  x  6  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x 
+ x  x  x  x  x  x |  x  x  x 12 33  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x 35  x  x  x  x |  x  x  x  x  x 31 
+ x 16  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x | 14  x  x  x  x  x |  x  x  x  x  x  x 
+---------------------------------------------------------------------------------------------------------------------
+ x  x  x  x 15  x |  x  x 23  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x 10  x |  x  x  x  x  x  x 
+ x  x  x  x  x  x |  x  x  x  9  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x 12  x  x |  x  x  x  x  x  x 
+ x 17  x  x  x  x |  x  x  x  x  x  x |  x  x 35  x  x 13 |  x  x 23  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x 
+ x  x  x  x 12  x |  x  x  x  x 21  x |  x  x  x  1  x  x |  x  x  x  x  x 13 |  x 16  x  x  x  x |  x  x  x  x  x  x 
+ x  5  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x 
+ x  x  x  x  7  x |  x  x 11  x  4  x |  x  x  x  x  x  x |  x  x  x 19  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x 
+---------------------------------------------------------------------------------------------------------------------
+ x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  2  x  x  x  x  x |  x  x  x  x  x 10 |  x  x  x  x  x 20 
+ x  x  x  x  x  x |  x 32  x  x  x  x |  x  x  x  x  x  x |  x  x  x 28  4  x |  x  x  x  x  x  x |  x 17  x  x  x  x 
+ x  x  x  x  x  x |  x  x  x  x  x  x | 13  x  x 35  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x 34  x  x  x 
+ x  x  3  x 22  x |  x  x  x  x  x  x |  x  x  x  x  1  x |  x  x  x  x  x  x |  x  x  x  x  x 26 |  x  x  x  x  x  x 
+ x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x | 27  x  x  x  x  x 
+ x  x  x  x  x  x |  x 24  x  x  x  4 |  x  x  3  x  x  x |  x  x  x  x  x  x |  x  x  x  x  x  x | 13  x  x  x  x  x 
